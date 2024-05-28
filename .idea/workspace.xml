@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a88359-7abf-4ce8-9906-ffd4d4614aaf" name="Changes" comment="COMMIT 03">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/Journal_01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/bonus15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Scripts/bonus15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/bonus6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/Quix_01.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/Quix_01.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/Quix_01.json" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/Quix_01.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/journal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/journal.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/members.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/members.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/presentation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/presentation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/strong_password.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/summary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/todos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BonusFolder/files/weather.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/weather.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions_todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Scripts/functions_todos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Scripts/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo_test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Scripts/todo_test_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.json" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/Data_files/todos.json" afterDir="false" />
-    </list>
+    <list default="true" id="28a88359-7abf-4ce8-9906-ffd4d4614aaf" name="Changes" comment="6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="eefd13f058bf7a776d004468eea577f7e33e1194" />
+        <entry key="$PROJECT_DIR$" value="7f2ea9e8bbb7f2c3117bd69a6aa16fb2fe1f4165" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,14 +43,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.bonus15.executor": "Run",
+    "Python.cli.executor": "Run",
+    "Python.gui.executor": "Run",
     "Python.main.executor": "Run",
     "Python.todo_test_01.executor": "Run",
+    "Python.web.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Folder/Scripts" />
+      <recent name="$PROJECT_DIR$/BonusFolder/files" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -120,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716923243361</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="COMMIT 04">
+      <option name="closed" value="true" />
+      <created>1716925246540</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716925246540</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5">
+      <option name="closed" value="true" />
+      <created>1716926127701</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716926127701</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +169,8 @@
     <MESSAGE value="FIRST COMMIT" />
     <MESSAGE value="Second COMMIT" />
     <MESSAGE value="COMMIT 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT 03" />
+    <MESSAGE value="COMMIT 04" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
 </project>
