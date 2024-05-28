@@ -1,8 +1,6 @@
-# ignore all .log files
+
 *.log
 
-# ignore all files in the directory logs
 /logs/
 
-# ignore file.txt
-file.txt
+/.venv/

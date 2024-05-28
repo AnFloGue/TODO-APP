@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a88359-7abf-4ce8-9906-ffd4d4614aaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TODO Proj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/Journal_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/bonus15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/bonus6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/Quix_01.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/Quix_01.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/journal.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/members.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/presentation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/strong_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/summary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/todos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusFolder/files/weather.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_todos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo_test_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todos.json" afterDir="false" />
+    <list default="true" id="28a88359-7abf-4ce8-9906-ffd4d4614aaf" name="Changes" comment="FIRST COMMIT">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AnFloGue/TODO-APP.git",
-    "accountId": "518863b9-d3f8-4742-8663-81b9aeab6f41"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnFloGue&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnFloGue/TODO-APP.git&quot;,
+    &quot;accountId&quot;: &quot;518863b9-d3f8-4742-8663-81b9aeab6f41&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2h6ilwlHhDywEOuZFstk8b8E4Qd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,12 +39,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,17 +63,57 @@
       <option name="presentableId" value="Default" />
       <updated>1716921082875</updated>
     </task>
+    <task id="LOCAL-00001" summary="FIRST COMMIT">
+      <option name="closed" value="true" />
+      <created>1716921585840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716921585840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
+    <option name="RECENT_FILTERS">
       <map>
-        <entry key="MAIN">
+        <entry key="Branch">
           <value>
-            <State />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIRST COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIRST COMMIT" />
   </component>
 </project>

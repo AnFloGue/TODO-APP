@@ -1,7 +1,6 @@
 from functions_todos import load_todos, save_todos, add_todo, show_todos, edit_todo, remove_todo, exit_todo
 
 
-
 def main():
     running = True
     todos = load_todos()
@@ -23,6 +22,7 @@ def main():
             running = exit_todo(todos)
         else:
             print("Invalid input, try again.")
+
 
 if __name__ == "__main__":
     main()
