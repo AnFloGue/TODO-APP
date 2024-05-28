@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "What is the tallest mountain in the world?",
+    "options_answers": [
+      "Mount Kilimanjaro",
+      "Mount Everest",
+      "Mount Fuji",
+      "K2"
+    ],
+    "correct_answer": "Mount Everest"
+  },
+  {
+    "question_text": "What is the capital of Germany?",
+    "options_answers": [
+      "Munich",
+      "Berlin",
+      "Hamburg",
+      "Frankfurt"
+    ],
+    "correct_answer": "Berlin"
+  },
+  {
+    "question_text": "How many sides does a hexagon have?",
+    "options_answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_answer": "6"
+  },
+  {
+    "question_text": "What is the process of water changing from a liquid to a gas called?",
+    "options_answers": [
+      "Condensation",
+      "Evaporation",
+      "Precipitation",
+      "Freezing"
+    ],
+    "correct_answer": "Evaporation"
+  },
+  {
+    "question_text": "What is the largest planet in our solar system?",
+    "options_answers": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question_text": "What is the name of the world wide web's inventor?",
+    "options_answers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee",
+      "Mark Zuckerberg"
+    ],
+    "correct_answer": "Tim Berners-Lee"
+  },
+  {
+    "question_text": "What is the main component of the atmosphere?",
+    "options_answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "correct_answer": "Nitrogen"
+  },
+  {
+    "question_text": "What is the currency used in Germany?",
+    "options_answers": [
+      "Euro",
+      "Dollar",
+      "Pound Sterling",
+      "Yen"
+    ],
+    "correct_answer": "Euro"
+  },
+  {
+    "question_text": "What is the most common language spoken in the world?",
+    "options_answers": [
+      "Mandarin Chinese",
+      "Spanish",
+      "English",
+      "Hindi"
+    ],
+    "correct_answer": "Mandarin Chinese"
+  },
+  {
+    "question_text": "What is the name of the famous clock tower in London?",
+    "options_answers": [
+      "Big Ben",
+      "Buckingham Palace",
+      "Tower Bridge",
+      "London Eye"
+    ],
+    "correct_answer": "Big Ben"
+  }
+]
