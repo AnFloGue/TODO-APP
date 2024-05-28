@@ -37,7 +37,7 @@ def main():
     questions_answered = 0  # Initialize the counter
     score = 0  # Initialize the score outside the loop
     while True:  # Use an infinite loop with a break condition
-        file_path = 'files/Quix_01.json'
+        file_path = '../Data_files/Quix_01.json'
         question_number = random.randint(0, 9)
         data = read_json(file_path)
 

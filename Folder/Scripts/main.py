@@ -1,4 +1,4 @@
-from functions_todos import load_todos, save_todos, add_todo, show_todos, edit_todo, remove_todo, exit_todo
+from functions_todos import load_todos, add_todo, show_todos, edit_todo, remove_todo, exit_todo
 
 
 def main():

@@ -5,7 +5,7 @@ def load_todos():
         A list of todo items (strings with newline characters).
     """
     try:
-        with open("BonusFolder/files/todos.txt", "r") as file:
+        with open("../Data_files/todos.txt", "r") as file:
             return file.readlines()
     except IOError as e:
         print(f"An error occurred while reading the file: {e}")
@@ -19,7 +19,7 @@ def save_todos(todos):
         todos: A list of todo items (strings with newline characters).
     """
     try:
-        with open("BonusFolder/files/todos.txt", "w") as file:
+        with open("../Data_files/todos.txt", "w") as file:
             file.writelines(todos)
     except IOError as e:
         print(f"An error occurred while writing to the file: {e}")
